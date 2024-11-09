@@ -1,2 +1,2 @@
 # git_test
-Testing Git
+Testing Git and its features
